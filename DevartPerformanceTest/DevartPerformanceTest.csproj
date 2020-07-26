@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Devart.Data.Oracle" Version="9.12.1054" />
+    <PackageReference Include="Devart.Data.Oracle.Linq" Version="4.9.2023" />
+  </ItemGroup>
+
+
+</Project>
